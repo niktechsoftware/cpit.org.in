@@ -1,0 +1,29 @@
+[16-Oct-2015 11:57:00 Etc/GMT] PHP Parse error:  syntax error, unexpected '$this' (T_VARIABLE) in /home/gfincuct/public_html/sartajcoaching.com/iManage/application/models/student_info.php on line 18
+[16-Oct-2015 11:57:07 Etc/GMT] PHP Parse error:  syntax error, unexpected '$this' (T_VARIABLE) in /home/gfincuct/public_html/sartajcoaching.com/iManage/application/models/student_info.php on line 18
+[16-Oct-2015 11:57:10 Etc/GMT] PHP Parse error:  syntax error, unexpected '$this' (T_VARIABLE) in /home/gfincuct/public_html/sartajcoaching.com/iManage/application/models/student_info.php on line 18
+[16-Oct-2015 11:57:12 Etc/GMT] PHP Parse error:  syntax error, unexpected '$this' (T_VARIABLE) in /home/gfincuct/public_html/sartajcoaching.com/iManage/application/models/student_info.php on line 18
+[16-Oct-2015 11:57:14 Etc/GMT] PHP Parse error:  syntax error, unexpected '$this' (T_VARIABLE) in /home/gfincuct/public_html/sartajcoaching.com/iManage/application/models/student_info.php on line 18
+[16-Oct-2015 11:57:16 Etc/GMT] PHP Parse error:  syntax error, unexpected '$this' (T_VARIABLE) in /home/gfincuct/public_html/sartajcoaching.com/iManage/application/models/student_info.php on line 18
+[16-Oct-2015 11:57:26 Etc/GMT] PHP Parse error:  syntax error, unexpected '$this' (T_VARIABLE) in /home/gfincuct/public_html/sartajcoaching.com/iManage/application/models/student_info.php on line 18
+[16-Oct-2015 11:57:30 Etc/GMT] PHP Parse error:  syntax error, unexpected '$this' (T_VARIABLE) in /home/gfincuct/public_html/sartajcoaching.com/iManage/application/models/student_info.php on line 18
+[16-Oct-2015 12:07:33 Etc/GMT] PHP Parse error:  syntax error, unexpected '$signature' (T_VARIABLE), expecting function (T_FUNCTION) in /home/gfincuct/public_html/sartajcoaching.com/iManage/application/models/student_info.php on line 23
+[16-Oct-2015 12:07:40 Etc/GMT] PHP Parse error:  syntax error, unexpected '$signature' (T_VARIABLE), expecting function (T_FUNCTION) in /home/gfincuct/public_html/sartajcoaching.com/iManage/application/models/student_info.php on line 23
+[16-Oct-2015 12:07:47 Etc/GMT] PHP Parse error:  syntax error, unexpected '$signature' (T_VARIABLE), expecting function (T_FUNCTION) in /home/gfincuct/public_html/sartajcoaching.com/iManage/application/models/student_info.php on line 23
+[16-Oct-2015 12:07:51 Etc/GMT] PHP Parse error:  syntax error, unexpected '$signature' (T_VARIABLE), expecting function (T_FUNCTION) in /home/gfincuct/public_html/sartajcoaching.com/iManage/application/models/student_info.php on line 23
+[16-Oct-2015 12:07:59 Etc/GMT] PHP Parse error:  syntax error, unexpected '$signature' (T_VARIABLE), expecting function (T_FUNCTION) in /home/gfincuct/public_html/sartajcoaching.com/iManage/application/models/student_info.php on line 23
+[17-Oct-2015 10:34:16 Etc/GMT] PHP Parse error:  syntax error, unexpected '=>' (T_DOUBLE_ARROW) in /home/gfincuct/public_html/sartajcoaching.com/iManage/application/views/dailyExpense.php on line 21
+[17-Oct-2015 10:34:22 Etc/GMT] PHP Parse error:  syntax error, unexpected '=>' (T_DOUBLE_ARROW) in /home/gfincuct/public_html/sartajcoaching.com/iManage/application/views/dailyExpense.php on line 21
+[23-Dec-2017 07:16:24 Etc/GMT] PHP Fatal error:  Call to undefined method general_settings::updateImag() in /home/gfincpnt/public_html/niteducation.in/iManage/application/models/general_settings.php on line 124
+[26-Dec-2017 11:59:49 Etc/GMT] PHP Parse error:  syntax error, unexpected '}' in /home/gfincpnt/public_html/niteducation.in/iManage/application/models/student_info.php on line 62
+[26-Dec-2017 12:00:00 Etc/GMT] PHP Parse error:  syntax error, unexpected '}' in /home/gfincpnt/public_html/niteducation.in/iManage/application/models/student_info.php on line 62
+[26-Dec-2017 12:02:08 Etc/GMT] PHP Parse error:  syntax error, unexpected '}' in /home/gfincpnt/public_html/niteducation.in/iManage/application/models/student_info.php on line 62
+[26-Dec-2017 12:02:16 Etc/GMT] PHP Parse error:  syntax error, unexpected '}' in /home/gfincpnt/public_html/niteducation.in/iManage/application/models/student_info.php on line 62
+[04-Jan-2018 14:18:28 Etc/GMT] PHP Fatal error:  Call to a member function getAll() on a non-object in /home/gfincpnt/public_html/cpit.org.in/iManage/application/controllers/apanel.php on line 171
+[04-Jan-2018 14:26:39 Etc/GMT] PHP Parse error:  syntax error, unexpected '<' in /home/gfincpnt/public_html/cpit.org.in/iManage/application/views/inquiry.php on line 25
+[04-Jan-2018 14:27:31 Etc/GMT] PHP Parse error:  syntax error, unexpected '<' in /home/gfincpnt/public_html/cpit.org.in/iManage/application/views/inquiry.php on line 25
+[04-Jan-2018 14:27:40 Etc/GMT] PHP Parse error:  syntax error, unexpected '<' in /home/gfincpnt/public_html/cpit.org.in/iManage/application/views/inquiry.php on line 25
+[04-Jan-2018 14:27:45 Etc/GMT] PHP Parse error:  syntax error, unexpected '<' in /home/gfincpnt/public_html/cpit.org.in/iManage/application/views/inquiry.php on line 25
+[05-Mar-2018 13:55:24 Etc/GMT] PHP Fatal error:  Call to undefined method general_settings::updateImag() in /home/gfincpnt/public_html/cpit.org.in/iManage/application/models/general_settings.php on line 124
+[03-Aug-2018 14:36:03 Etc/GMT] PHP Fatal error:  Call to undefined method general_settings::updateImag() in /home/gfincpnt/public_html/cpit.org.in/iManage/application/models/general_settings.php on line 124
+[03-Aug-2018 14:37:04 Etc/GMT] PHP Fatal error:  Call to undefined method general_settings::updateImag() in /home/gfincpnt/public_html/cpit.org.in/iManage/application/models/general_settings.php on line 124
+[03-Aug-2018 14:37:52 Etc/GMT] PHP Fatal error:  Call to undefined method general_settings::updateImag() in /home/gfincpnt/public_html/cpit.org.in/iManage/application/models/general_settings.php on line 124
